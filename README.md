@@ -1,7 +1,6 @@
 <h1 align="center">
   Hi, I'm <a href="https://diaoquesang.github.io/" target="_blank">Yifei Sun（孙逸飞）👋</a> <br>
 	<a href="https://diaoquesang.github.io/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdiaoquesang.github.io&count_bg=%233FDBD2&title_bg=%233D62C7&icon=googlepodcasts.svg&icon_color=%23E9F742&title=Page+Viewers&edge_flat=false"/></a>
-	<a href='https://scholar.google.com/citations?user=4anytcgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/diaoquesang">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/diaoquesang">
 <br>
