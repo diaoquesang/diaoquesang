@@ -19,3 +19,5 @@
 
 Hi,I am Yifei Sun（孙逸飞）, a 3rd-year undergraduate student studying computer science and technology at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge (葛瑞泉)](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang (王昌淼)](https://www.sribd.cn/teacher/505). I have a broad interest in Computer Vision, with a primary focus on Biomedical Imaging and Medical Image Analysis.
 
+# 📑 Papers
+See [My Google Scholar Profile](https://scholar.google.com/citations?user=4anytcgAAAAJ&hl=zh-CN) or [My Homepage](https://diaoquesang.github.io/) for more details.
