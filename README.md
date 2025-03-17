@@ -12,10 +12,15 @@
 
 
 
-### 🏠 Homepage: https://diaoquesang.github.io
+### 🏠 Homepage: https://diaoquesang.github.io.
 
 
-Hi,I am Yifei Sun（孙逸飞）, a 3rd-year undergraduate student studying Computer Science and Technology at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge (葛瑞泉)](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang (王昌淼)](https://www.sribd.cn/teacher/505). I have a broad interest in **Computer Vision** and **Medical Image Analysis**, with a primary focus on **Biomedical Imaging** and **Computer-Aided Diagnosis**.
+🌱 Hi, I'm a 3rd-year undergraduate student studying **Computer Science and Technology** at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge (葛瑞泉)](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang (王昌淼)](https://www.sribd.cn/teacher/505).
+
+🔭 I'm currently focused on **Medical Image Analysis** and **Computer Vision**, but also have a depp interest in all areas of **Computer Science**.
+
+📫 How to reach me: [szhsxhsyf@hdu.edu.cn](szhsxhsyf@hdu.edu.cn).
+
 
 <img align="left" alt="youlookwhat's github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=diaoquesang&show_icons=true&theme=default&rank_icon=percentile" />
 <img align="left" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaoquesang&layout=compact&langs_count=8" />
