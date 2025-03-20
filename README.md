@@ -24,8 +24,3 @@
 
 <img align="left" alt="youlookwhat's github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=diaoquesang&show_icons=true&theme=default&rank_icon=percentile" />
 <img align="left" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaoquesang&layout=compact&langs_count=8" />
-
-
-<div>
-<img src="https://github.com/diaoquesang/diaoquesang/blob/main/slogan.png" width="100%" href="https://diaoquesang.github.io/">
-</div>
