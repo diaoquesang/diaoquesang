@@ -18,7 +18,7 @@
 
 🔭 I'm currently focused on **Medical Image Analysis** and **Computer Vision**, but also have a deep interest in all areas of **Computer Science**.
 
-🥳 Open Source Projects: [A Paper List for Medical Anomaly Detection](https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection), [Bone Suppression in Chest X-Rays: A Deep Survey](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays).
+🥳 Open Source Projects: [A Paper List for Medical Anomaly Detection](https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection), [Bone Suppression in Chest X-Rays: A Deep Survey](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays), [A Paper List for Prototypical Learning](https://github.com/BeistMedAI/Paper-List-for-Prototypical-Learning).
 
 📫 How to reach me: [szhsxhsyf@hdu.edu.cn](szhsxhsyf@hdu.edu.cn).
 
