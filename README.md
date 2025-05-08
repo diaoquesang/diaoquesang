@@ -3,10 +3,9 @@
 
 
 ### 🏠 Homepage: https://diaoquesang.github.io. 
-<a href='https://scholar.google.com/citations?user=4anytcgAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
-	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/diaoquesang">
-	<img alt="GitHub followers" src="https://img.shields.io/github/followers/diaoquesang">
- 	![](https://komarev.com/ghpvc/?username=diaoquesang&label=PROFILE+VIEWS)
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/diaoquesang">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/diaoquesang">
+![](https://komarev.com/ghpvc/?username=diaoquesang&label=PROFILE+VIEWS)
 
 
 🌱 Hi, I'm a 3rd-year undergraduate student studying **Computer Science and Technology** at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm), supervised by [Prof. Ruiquan Ge (葛瑞泉)](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) in [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) and [Prof. Changmiao Wang (王昌淼)](https://www.sribd.cn/teacher/505) in [Shenzhen Research Institute of Big Data](https://www.sribd.cn/).
