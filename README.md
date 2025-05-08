@@ -1,9 +1,7 @@
 [![](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Hi,%20I'm%20Yifei%20Sun%20（孙逸飞）&reversal=false&fontSize=40&fontAlignY=40)
 ](https://diaoquesang.github.io/)
 
-![GitHub User's stars](https://img.shields.io/github/stars/diaoquesang)
-![GitHub followers](https://img.shields.io/github/followers/diaoquesang)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=diaoquesang&countColor=%23263759&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=diaoquesang)
+
 
 ### 🏠 Homepage: https://diaoquesang.github.io. 
 
@@ -15,6 +13,9 @@
 
 📫 How to reach me: [szhsxhsyf@hdu.edu.cn](szhsxhsyf@hdu.edu.cn).
 
+![GitHub User's stars](https://img.shields.io/github/stars/diaoquesang)
+![GitHub followers](https://img.shields.io/github/followers/diaoquesang)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=diaoquesang&countColor=%23263759&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=diaoquesang)
 
 <img align="left" alt="youlookwhat's github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=diaoquesang&show_icons=true&theme=default&rank_icon=percentile" />
 <img align="left" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaoquesang&layout=compact&langs_count=8" />
