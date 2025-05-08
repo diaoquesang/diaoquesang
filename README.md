@@ -1,3 +1,6 @@
+[![](https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&reversal=true%)
+](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20Yifei%20Sun%20（孙逸飞）&reversal=false&fontSize=45&fontAlignY=40&animation=fadeIn)
+
 <h1 align="center">
   Hi, I'm <a href="https://diaoquesang.github.io/" target="_blank">Yifei Sun（孙逸飞）👋</a> <br>
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/diaoquesang">
