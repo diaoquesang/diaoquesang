@@ -1,18 +1,6 @@
 [![](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi,%20I'm%20Yifei%20Sun%20（孙逸飞）&reversal=false&fontSize=45&fontAlignY=45)
 ](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi,%20I'm%20Yifei%20Sun%20（孙逸飞）&reversal=false&fontSize=45&fontAlignY=45)
 
-<h1 align="center">
-  Hi, I'm <a href="https://diaoquesang.github.io/" target="_blank">Yifei Sun（孙逸飞）👋</a> <br>
-	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/diaoquesang">
-	<img alt="GitHub followers" src="https://img.shields.io/github/followers/diaoquesang">
-<br>
-<div>
-<img src="https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection/blob/main/logos/HDU.png" height="45px" href="https://www.hdu.edu.cn/">
-<img src="https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection/blob/main/logos/ITMO.jpg" height="45px" href="https://en.itmo.ru/">
-</div>
-</h1>
-
-
 
 ### 🏠 Homepage: https://diaoquesang.github.io.
 
