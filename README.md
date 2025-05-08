@@ -1,10 +1,16 @@
 [![](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Hi,%20I'm%20Yifei%20Sun%20（孙逸飞）&reversal=false&fontSize=40&fontAlignY=40)
 ](https://diaoquesang.github.io/)
 
+<div align="center">
 
 
-### [🏠 Homepage](https://diaoquesang.github.io) [🎓 Google Scholar](https://scholar.google.com/citations?user=4anytcgAAAAJ) [📧 Email](mailto:szhsxhsyf@hdu.edu.cn) [🖥️ DBLP](https://dblp.org/pid/27/3389-5.html) ![GitHub User's stars](https://img.shields.io/github/stars/diaoquesang) ![GitHub followers](https://img.shields.io/github/followers/diaoquesang) [![Visitors](https://api.visitorbadge.io/api/visitors?path=diaoquesang&countColor=%23263759&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=diaoquesang)
+### [🏠 Homepage](https://diaoquesang.github.io) [🎓 Google Scholar](https://scholar.google.com/citations?user=4anytcgAAAAJ) [📧 Email](mailto:szhsxhsyf@hdu.edu.cn)
 
+  
+![GitHub User's stars](https://img.shields.io/github/stars/diaoquesang) ![GitHub followers](https://img.shields.io/github/followers/diaoquesang) [![Visitors](https://api.visitorbadge.io/api/visitors?path=diaoquesang&countColor=%23263759&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=diaoquesang)
+
+</div>
+  
 🌱 Hi, I'm a 3rd-year undergraduate student studying **Computer Science and Technology** at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm), supervised by [Prof. Ruiquan Ge (葛瑞泉)](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) in [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) and [Prof. Changmiao Wang (王昌淼)](https://www.sribd.cn/teacher/505) in [Shenzhen Research Institute of Big Data](https://www.sribd.cn/).
 
 🔭 I'm currently focused on **Medical Image Analysis** and **Computer Vision**, but also have a deep interest in all areas of **Computer Science**.
