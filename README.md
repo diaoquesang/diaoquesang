@@ -7,7 +7,7 @@
 # [🏠 Homepage](https://diaoquesang.github.io) [🎓 Google Scholar](https://scholar.google.com/citations?user=4anytcgAAAAJ) [📧 Email](mailto:szhsxhsyf@hdu.edu.cn)
 
   
-![GitHub User's stars](https://img.shields.io/github/stars/diaoquesang) ![GitHub followers](https://img.shields.io/github/followers/diaoquesang) [![Visitors](https://api.visitorbadge.io/api/visitors?path=diaoquesang&countColor=%23263759&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=diaoquesang)
+[![GitHub User's stars](https://img.shields.io/github/stars/diaoquesang)](https://github.com/diaoquesang) [![GitHub followers](https://img.shields.io/github/followers/diaoquesang)](https://github.com/diaoquesang) [![Visitors](https://api.visitorbadge.io/api/visitors?path=diaoquesang&countColor=%23263759&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=diaoquesang)
 
 </div>
   
