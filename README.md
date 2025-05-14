@@ -1,5 +1,9 @@
+<div align="center">
+
 [![](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Hi,%20I'm%20Yifei%20Sun%20（孙逸飞）&reversal=false&fontSize=40&fontAlignY=40)
 ](https://diaoquesang.github.io/)
+
+</div>
 
 <div align="center">
 
