@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img alt="youlookwhat's github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=diaoquesang&show_icons=true&theme=default&rank_icon=percentile" />
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaoquesang&layout=compact&langs_count=8" />
+<img alt="youlookwhat's github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=diaoquesang&show_icons=true&theme=default&rank_icon=percentile" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaoquesang&layout=compact&langs_count=8" />
 
 </div>
