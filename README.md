@@ -27,6 +27,7 @@
 <img alt="github stats" height="199px" src="https://github-readme-stats.vercel.app/api?username=diaoquesang&show_icons=true&theme=default&rank_icon=percentile" />
 <img height="199px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaoquesang&layout=compact&langs_count=8" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=diaoquesang)](https://github.com/diaoquesang/github-profile-trophy)
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=diaoquesang" />
+
 
 </div>
