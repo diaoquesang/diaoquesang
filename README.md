@@ -1,6 +1,6 @@
 <div align="center">
 
-[![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2193b0,100:d5ed3F&text=Hi,%20I'm%20Yifei%20Sun%20（孙逸飞）&reversal=false&fontSize=40&fontAlignY=40&fontColor=FFFFFF)
+[![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2193b0,100:45ed3F&text=Hi,%20I'm%20Yifei%20Sun%20（孙逸飞）&reversal=false&fontSize=40&fontAlignY=40&fontColor=FFFFFF)
 ](https://diaoquesang.github.io/)
 
 </div>
