@@ -10,8 +10,7 @@
 
 ## [🏠 Homepage](https://diaoquesang.github.io) [🎓 Google Scholar](https://scholar.google.com/citations?user=4anytcgAAAAJ) [🤝 LinkedIn](https://www.linkedin.com/in/diaoquesang/)
 
-  
-[![GitHub User's stars](https://img.shields.io/github/stars/diaoquesang)](https://github.com/diaoquesang) [![GitHub followers](https://img.shields.io/github/followers/diaoquesang)](https://github.com/diaoquesang) [![Visitors](https://api.visitorbadge.io/api/visitors?path=diaoquesang&countColor=%23263759&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=diaoquesang)
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdiaoquesang%2Fdiaoquesang.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=Citations"> [![GitHub User's stars](https://img.shields.io/github/stars/diaoquesang)](https://github.com/diaoquesang) [![GitHub followers](https://img.shields.io/github/followers/diaoquesang)](https://github.com/diaoquesang) [![Visitors](https://api.visitorbadge.io/api/visitors?path=diaoquesang&countColor=%23263759&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=diaoquesang)
 
 </div>
   
