@@ -14,7 +14,8 @@
 
 </div>
   
-🌱 Hi, I'm a 3rd-year undergraduate student studying **Computer Science and Technology** at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm), supervised by [Prof. Ruiquan Ge (葛瑞泉)](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) in [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) and [Prof. Changmiao Wang (王昌淼)](https://www.sribd.cn/teacher/505) in [Shenzhen Research Institute of Big Data](https://www.sribd.cn/).
+🌱 Hi, I'm a 3rd-year undergraduate student studying **Computer Science and Technology** at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm), supervised by [Prof. Ruiquan Ge (葛瑞泉)](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) in [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) and [Prof. Changmiao Wang (王昌淼)](https://www.sribd.cn/teacher/505) in [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/).
+
 
 🔭 I'm currently focused on **Medical Image Analysis**, **Computer Vision**, and **Generative Models**.
 
