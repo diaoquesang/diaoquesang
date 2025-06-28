@@ -16,8 +16,9 @@
   
 🌱 Hi, I'm a 3rd-year undergraduate student studying **Computer Science and Technology** at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm), supervised by [Prof. Ruiquan Ge (葛瑞泉)](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) in [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) and [Prof. Changmiao Wang (王昌淼)](https://www.sribd.cn/teacher/505) in [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/).
 
-
 🔭 I'm currently focused on **Medical Image Analysis**, **Computer Vision**, and **Generative Models**.
+
+🔖 Academic Services: Conference Reviewers of ACM Multimedia (**ACM MM**)<sub>[2025](https://acmmm2025.org/)</sub>.
 
 📫 How to reach me: [szhsxhsyf@hdu.edu.cn](mailto:szhsxhsyf@hdu.edu.cn).
 
