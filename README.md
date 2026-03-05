@@ -24,7 +24,7 @@
 
 📫 How to reach me: [diaoquesang@gmail.com](mailto:diaoquesang@gmail.com).
 
-<div align="center">
+<!-- <div align="center">
 
 <img alt="github stats" style="height:199px" src="https://github-readme-stats.vercel.app/api?username=diaoquesang&show_icons=true&theme=default&rank_icon=percentile" />
 <img style="height:199px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaoquesang&layout=compact&langs_count=8" />
@@ -32,4 +32,4 @@
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=diaoquesang" />
 
 
-</div>
+</div> -->
